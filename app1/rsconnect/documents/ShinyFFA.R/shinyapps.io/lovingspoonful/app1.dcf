@@ -1,0 +1,12 @@
+name: app1
+title: app1
+username:
+account: lovingspoonful
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 380489
+bundleId: 1485053
+url: https://lovingspoonful.shinyapps.io/app1/
+when: 1531855139.46571
+asMultiple: FALSE
+asStatic: FALSE
